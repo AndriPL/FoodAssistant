@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "609697606899",
+    "firebase_url": "https://food-assistant-74f4b.firebaseio.com",
+    "project_id": "food-assistant-74f4b",
+    "storage_bucket": "food-assistant-74f4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609697606899:android:b202f1920eab0d14a39b86",
+        "android_client_info": {
+          "package_name": "com.slightlynonprofessionalprogrammer.foodassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609697606899-njvmi5dt0v3jcvqmlq7159gch8091bgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAkjse-ROASYPC6fF19fWZTBFRwt_9yBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609697606899-njvmi5dt0v3jcvqmlq7159gch8091bgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

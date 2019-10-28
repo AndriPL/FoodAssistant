@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#008577</color>-->
+<!--    <color name="colorPrimaryDark">#00574B</color>-->
+<!--    <color name="colorAccent">#D81B60</color>-->
+<!--    <color name="bg_row_background">#f53939</color>-->
+<!--    <color name="item_name">#535353</color>-->
+<!--    <color name="description">#a9a9a9</color>-->
+
+    <color name="colorPrimary">#63c387</color>
+    <color name="colorPrimaryDark">#40b16a</color>
+    <color name="colorAccent">#a2a19e</color>
+    <color name="bg_row_background">#f53939</color>
+    <color name="item_name">#35332e</color>
+    <color name="description">#44423c</color>
+
+    <color name="white">#FAFAFF</color>
+    <color name="pureBlack">#000000</color>
+    <color name="pureWhite">#FFFFFF</color>
+
+    <color name="greypalette_50">#f9faf9</color>
+    <color name="greypalette_100">#f1f2f1</color>
+    <color name="greypalette_200">#e7eae8</color>
+    <color name="greypalette_300">#dde1de</color>
+    <color name="greypalette_400">#d6dad7</color>
+    <color name="greypalette_500">#cfd4d0</color>
+    <color name="greypalette_600">#cacfcb</color>
+    <color name="greypalette_700">#c3c9c4</color>
+    <color name="greypalette_800">#bdc3be</color>
+    <color name="greypalette_900">#b2b9b3</color>
+    <color name="greypalette_A100">#ffffff</color>
+    <color name="greypalette_A200">#ffffff</color>
+    <color name="greypalette_A400">#ffffff</color>
+    <color name="greypalette_A700">#f1fff3</color>
+
+    <color name="greenpalette_50">#e9f6ee</color>
+    <color name="greenpalette_100">#c8ead5</color>
+    <color name="greenpalette_200">#a3dcb9</color>
+    <color name="greenpalette_300">#7ecd9c</color>
+    <color name="greenpalette_400">#63c387</color>
+    <color name="greenpalette_500">#47b872</color>
+    <color name="greenpalette_600">#40b16a</color>
+    <color name="greenpalette_700">#37a85f</color>
+    <color name="greenpalette_800">#2fa055</color>
+    <color name="greenpalette_900">#209142</color>
+    <color name="greenpalette_A100">#cdffdb</color>
+    <color name="greenpalette_A200">#9affb6</color>
+    <color name="greenpalette_A400">#67ff91</color>
+    <color name="greenpalette_A700">#4dff7e</color>
+
+    <color name="dark_50">#e9e8e8</color>
+    <color name="dark_100">#c7c6c5</color>
+    <color name="dark_200">#a2a19e</color>
+    <color name="dark_300">#7c7b77</color>
+    <color name="dark_400">#605e59</color>
+    <color name="dark_500">#44423c</color>
+    <color name="dark_600">#3e3c36</color>
+    <color name="dark_700">#35332e</color>
+    <color name="dark_800">#2d2b27</color>
+    <color name="dark_900">#1f1d1a</color>
+    <color name="dark_A100">#f9d66d</color>
+    <color name="dark_A200">#f7c93c</color>
+    <color name="dark_A400">#ffc002</color>
+    <color name="dark_A700">#e7ad00</color>
+</resources>
