@@ -43,11 +43,11 @@ class LoginActivity : AppCompatActivity() {
 
             login.setOnClickListener(){
                 when {
-                    email.text.toString() == "" -> email.setError("Required")
-                    email.text.toString().contains("@") == false -> email.setError("Invalid Format")
-                    password.text.toString() == "" -> password.setError("Required")
-                    else -> signIn(email.text.toString(), password.text.toString())
-                }
+                email.text.toString() == "" -> email.setError("Required")
+                email.text.toString().contains("@") == false -> email.setError("Invalid Format")
+                password.text.toString() == "" -> password.setError("Required")
+                else -> signIn(email.text.toString(), password.text.toString())
+            }
             }
 
             newAccount.setOnClickListener(){
